@@ -1,6 +1,4 @@
-http://baidu.com
-http://google.com
-http://qq.com
-https://baidu.com
-https://google.com
-https://qq.com
+http://data.mercadolibre.com
+http://ms.mercadolibre.com
+https://data.mercadolibre.com
+https://ms.mercadolibre.com
