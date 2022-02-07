@@ -1,7 +1,0 @@
-dejavu.mercadolibre.com:443
-dejavu.mercadolibre.com:80
-dnsps21.mercadolibre.com:53
-jobs.mercadolibre.com:443
-jobs.mercadolibre.com:80
-www.mercadolibre.com:443
-www.mercadolibre.com:80

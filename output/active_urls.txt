@@ -1,6 +1,0 @@
-http://dejavu.mercadolibre.com
-http://jobs.mercadolibre.com
-http://www.mercadolibre.com
-https://dejavu.mercadolibre.com
-https://jobs.mercadolibre.com
-https://www.mercadolibre.com
