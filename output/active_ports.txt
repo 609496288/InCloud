@@ -1,0 +1,6 @@
+baidu.com:443
+baidu.com:80
+google.com:443
+google.com:80
+qq.com:443
+qq.com:80
