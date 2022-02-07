@@ -1,2 +1,11 @@
-103.253.24.78
-91.134.238.133
+o6.ptr4588.sg.a.mercadolibre.com
+ms.mercadolibre.com
+dc4-iron08-b.mercadolibre.com
+lcb.mercadolibre.com
+argos.mercadolibre.com
+dnsps32.mercadolibre.com
+data.mercadolibre.com
+ns3.mercadolibre.com
+iron06-d.mercadolibre.com
+api.mercadolibre.com
+auth.mercadolibre.com
