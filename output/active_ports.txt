@@ -1,8 +1,4 @@
-baidu.com:443
-baidu.com:80
-github.com:22
-github.com:443
-github.com:80
-github.com:9418
-google.com:443
-google.com:80
+aragorn.mercadolibre.com:443
+aragorn.mercadolibre.com:80
+places.mercadolibre.com:443
+places.mercadolibre.com:80

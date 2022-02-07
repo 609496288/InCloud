@@ -1,6 +1,3 @@
-http://baidu.com
-http://github.com
-http://google.com
-https://baidu.com
-https://github.com
-https://google.com
+http://aragorn.mercadolibre.com
+http://places.mercadolibre.com
+https://places.mercadolibre.com
