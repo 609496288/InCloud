@@ -1,9 +1,1 @@
-o6.ptr4588.sg.a.mercadolibre.com
-ms.mercadolibre.com
-dc4-iron08-b.mercadolibre.com
-lcb.mercadolibre.com
-argos.mercadolibre.com
-dnsps32.mercadolibre.com
-data.mercadolibre.com
-ns3.mercadolibre.com
-iron06-d.mercadolibre.com
+185.47.49.160
