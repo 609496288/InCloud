@@ -1,1 +1,13 @@
-http://202.79.174.108:47001
+http://onionfan.com
+http://onionfan.com:15672
+http://onionfan.com:8010
+http://onionfan.com:9905
+http://onionfan.com:9915
+http://onionfan.com:9916
+http://onionfan.com:9917
+http://onionfan.com:9918
+http://onionfan.com:9919
+http://onionfan.com:9998
+http://onionfan.com:9999
+https://onionfan.com
+https://onionfan.com:8443
