@@ -1,4 +1,1 @@
-http://data.mercadolibre.com
-http://ms.mercadolibre.com
-https://data.mercadolibre.com
-https://ms.mercadolibre.com
+http://202.79.174.108:47001

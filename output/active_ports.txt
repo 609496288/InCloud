@@ -1,5 +1,7 @@
-data.mercadolibre.com:443
-data.mercadolibre.com:80
-dnsps32.mercadolibre.com:53
-ms.mercadolibre.com:443
-ms.mercadolibre.com:80
+104.248.93.251:22
+104.248.93.251:443
+202.79.174.108:10022
+202.79.174.108:139
+202.79.174.108:1688
+202.79.174.108:33890
+202.79.174.108:47001
