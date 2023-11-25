@@ -85,8 +85,6 @@ jobs:
           git add output/xraylog.tar.gz
       - name: Commit results to Github
         run: |
-          git config --local user.email "609496288@qq.com"
-          git config --global user.name "609496288"
           git commit -m "InCloud Report" -a --allow-empty
       - name: Push changes
         uses: ad-m/github-push-action@master
