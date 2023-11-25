@@ -63,8 +63,6 @@ jobs:
           git add output/active_urls.txt
       - name: Commit results to Github
         run: |
-          git config --local user.email "609496288@qq.com"
-          git config --global user.name "F8syw5v"
           git commit -m "InCloud Report" -a --allow-empty
       - name: Push changes
         uses: ad-m/github-push-action@master
